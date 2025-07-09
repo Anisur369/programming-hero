@@ -313,37 +313,6 @@ button:hover {
   }
 }
 
-
-/* Resume */
-.resume-columns {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-}
-
-.resume-columns div {
-  flex: 1 1 400px;
-}
-
-/* Contact Form */
-form input,
-form textarea {
-  width: 100%;
-  padding: 0.8rem;
-  margin-bottom: 1rem;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-}
-
-form button {
-  background: #04aa6d;
-  color: #fff;
-  padding: 0.8rem 1.5rem;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
 /* Footer */
 footer {
   text-align: center;
