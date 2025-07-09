@@ -29,6 +29,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 25px 0px;
 }
 
 .nav-menu {
@@ -37,7 +38,9 @@ body {
   list-style: none;
   gap: 2rem;
   margin-bottom: 1.5rem;
+  align-items: center;
 }
+
 
 .nav-menu a {
   color: #04aa6d;
@@ -116,7 +119,7 @@ ul.info-list {
     display: flex;
     justify-content: space-between;
     padding: 0px 30px;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 .bgcolor {
     background: #bdbdbd;
